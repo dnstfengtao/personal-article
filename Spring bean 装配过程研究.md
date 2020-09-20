@@ -17,7 +17,8 @@
 
 BeanDefinition 结构如图
 
-<img src="/Users/finleyfeng/Library/Application Support/typora-user-images/image-20200920153228494.png" alt="image-20200920153228494" style="zoom:50%;" />
+<img src="./image/image-20200920154623491.png" alt="image-20200920154623491" style="zoom:33%;" />
+
 
 
 
