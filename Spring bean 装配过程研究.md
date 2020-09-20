@@ -17,7 +17,9 @@
 
 BeanDefinition 结构如图
 
-<img src="./image/image-20200920154623491.png" alt="image-20200920154623491" style="zoom:33%;" />
+<img src="https://raw.githubusercontent.com/wiki/dnstfengtao/personal-article/image-20200920154623491.png" alt="image-20200920154623491" style="zoom:33%;" />
+
+
 
 
 
